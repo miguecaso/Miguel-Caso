@@ -36,7 +36,7 @@ with st.container():
     st.markdown("<h1 style='text-align:center;'>🎤 Portafolio de Miguel Caso</h1>", unsafe_allow_html=True)
     st.markdown("---")
 
-    # Imagen y presentación
+    # Imagen y presentación personal
     col1, col2 = st.columns([1, 2])
     with col1:
         try:
@@ -44,7 +44,7 @@ with st.container():
         except:
             st.warning("⚠️ No se encontró la imagen 'mi_foto.jpg'.")
     with col2:
-        st.markdown("### 👤 Sobre mi persona")
+        st.markdown("### 👤 Sobre mí")
         st.write("""
 Soy una persona apasionada por el arte y la creatividad. Me encanta cantar, componer canciones, inventar historias y expresarme a través de los instrumentos musicales.  
 Encuentro en la música y la narrativa una forma de conectar con los demás y conmigo mismo.  
@@ -57,33 +57,33 @@ Cada meta que me propongo la enfrento con disciplina, entrega y corazón, porque
     # Habilidades
     st.markdown("### 🎯 Habilidades")
     st.markdown("""
-- 🖥️ Conocimientos de computación  
+- 🖥️ Conocimientos en computación  
 - 🎥 Conocimientos audiovisuales  
 - 🧹 Realizar limpieza de espacios  
 - 🤓 Aprendo diversas actividades con facilidad
     """)
 
-    # Perfil
-    st.markdown("### 🧩 Perfil Personal")
+    # Perfil personal
+    st.markdown("### 🧩 Perfil personal")
     st.markdown("""
 - Estudiante universitario, cursando la carrera de Comunicación Audiovisual  
 - Soy amigable con las personas que están en mi entorno  
 - Aprendo con facilidad lo que me enseñan  
-- Soy muy dedicado al trabajo que se me designa
+- Soy muy dedicado al trabajo que se me asigna
     """)
 
-    # Experiencia Laboral
-    st.markdown("### 💼 Experiencia Laboral")
+    # Experiencia laboral
+    st.markdown("### 💼 Experiencia laboral")
     st.markdown("""
 - Cobrador de pasajes (vía electrónica) en la Empresa de Transporte Internacional ECO  
 - Recojo y envío de encomiendas  
 - Limpieza de buses interprovinciales  
-- Producción de Entrevistas  
-- Asesor de Experiencia en Cineplanet (Limpieza de Salas, Atención al cliente y Dulcería)  
-- Atención al Cliente en un Restaurante (Limpieza, Mozo, Cocina y Delivery)
+- Producción de entrevistas  
+- Asesor de experiencia en Cineplanet (limpieza de salas, atención al cliente y dulcería)  
+- Atención al cliente en un restaurante (limpieza, mozo, cocina y delivery)
     """)
 
-    # Proyecto
+    # Proyecto destacado
     st.markdown("### 🎬 Proyecto: *Entre Palabras*")
     st.write("""
 **Entre Palabras** es un cortometraje realizado en colaboración con un grupo de amigos, que aborda la falta de valentía que puede surgir cuando alguien cree haber encontrado el amor.  
@@ -91,20 +91,20 @@ A través de una narrativa íntima y emocional, exploramos cómo el miedo a expr
 Esta historia refleja cómo, entre palabras no dichas y sentimientos reprimidos, se desdibuja la posibilidad de un verdadero encuentro emocional.
     """)
 
-    # Pasatiempos
-    st.markdown("### 🎨 Pasatiempos e Intereses")
+    # Pasatiempos e intereses
+    st.markdown("### 🎨 Pasatiempos e intereses")
     st.markdown("""
 - 🎧 Escuchar música  
 - 🎬 Ver películas  
 - 📖 Leer y escribir
     """)
 
-    # Contacto
+    # Información de contacto
     st.markdown("### 📫 Contacto")
     st.markdown("📧 Correo: m.caso@pucp.edu.pe")  
     st.markdown("[📸 Instagram: @miguecaso](https://instagram.com/miguecaso)")
 
-    # Cierre
+    # Mensaje de cierre
     st.markdown("<br><p style='text-align:center; color:#6d597a;'>Gracias por visitar mi portafolio 🎶</p>", unsafe_allow_html=True)
 
     st.markdown("</div>", unsafe_allow_html=True)
