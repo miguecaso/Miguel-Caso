@@ -78,8 +78,7 @@ Cada meta que me propongo la enfrento con disciplina, entrega y corazón, porque
 - Cobrador de pasajes (vía electrónica) en la Empresa de Transporte Internacional ECO  
 - Recojo y envío de encomiendas  
 - Limpieza de buses interprovinciales  
-- Producción de Entrevistas en Productora  
-- Director de cortometrajes para la PUCP  
+- Producción de Entrevistas  
 - Asesor de Experiencia en Cineplanet (Limpieza de Salas, Atención al cliente y Dulcería)  
 - Atención al Cliente en un Restaurante (Limpieza, Mozo, Cocina y Delivery)
     """)
