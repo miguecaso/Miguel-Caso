@@ -12,10 +12,9 @@ st.markdown("---")
 # Sobre mí
 st.header("👤 Sobre mí")
 st.write("""
-Soy una persona apasionada por el arte y la creatividad.  
-Me gusta cantar, componer canciones, inventar historias y tocar instrumentos musicales.  
-Creo que el esfuerzo es la clave para crecer. Siempre doy lo mejor de mí para cumplir mis metas.
-""")
+Soy una persona apasionada por el arte y la creatividad. Me encanta cantar, componer canciones, inventar historias y expresarme a través de los instrumentos musicales.  
+Encuentro en la música y la narrativa una forma de conectar con los demás y conmigo mismo. Creo firmemente en el esfuerzo como clave del crecimiento personal; para mí, no hay victoria sin sacrificio. Cada meta que me propongo la enfrento con disciplina, entrega y corazón, porque sé que los sueños solo se alcanzan cuando se trabaja por ellos con constancia y pasión.
+        """)
 
 # Habilidades
 st.header("🎯 Habilidades")
@@ -49,9 +48,10 @@ st.write("""
 # Proyecto
 st.header("🎬 Proyecto: Entre Palabras")
 st.write("""
-Cortometraje que realicé con amigos. Trata sobre cómo el miedo puede afectar las relaciones.  
-Es una historia emocional sobre lo que no se dice y lo que se siente.
-""")
+**Entre Palabras** es un cortometraje escénico realizado en colaboración con un grupo de amigos, que aborda la falta de valentía que puede surgir cuando alguien cree haber encontrado el amor.  
+A través de una narrativa íntima y emocional, exploramos cómo el miedo a expresarse y la inseguridad pueden transformar lo que parecía una conexión sincera en un vacío profundo, cubierto por la soledad.  
+Esta historia refleja cómo, entre palabras no dichas y sentimientos reprimidos, se desdibuja la posibilidad de un verdadero encuentro emocional.
+    """)
 
 # Pasatiempos
 st.header("🎨 Pasatiempos e intereses")
