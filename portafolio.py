@@ -9,11 +9,25 @@ st.markdown("""
         background-attachment: fixed;
         background-position: center;
     }
+    /* Contenedor para el contenido */
+    .contenido {
+        background-color: rgba(255, 255, 255, 0.85); /* fondo blanco translúcido */
+        border-radius: 15px;
+        padding: 2rem 2.5rem;
+        max-width: 900px;
+        margin: 3rem auto 3rem auto;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    }
     </style>
 """, unsafe_allow_html=True)
 
 # Configurar la página
 st.set_page_config(page_title="Portafolio de Miguel Caso", page_icon="🎤")
+
+# Abrir contenedor
+st.markdown("<div class='contenido'>", unsafe_allow_html=True)
+
+# Aquí va todo tu contenido normal
 
 # Título
 st.title("🎤 Portafolio de Miguel Caso")
@@ -79,3 +93,6 @@ st.write("Instagram: [@miguecaso](https://instagram.com/miguecaso)")
 # Cierre
 st.markdown("---")
 st.write("Gracias por visitar mi portafolio 🎶")
+
+# Cerrar contenedor
+st.markdown("</div>", unsafe_allow_html=True)
