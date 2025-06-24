@@ -24,12 +24,12 @@ st.title("🎤 Portafolio de Miguel Caso")
 st.markdown("---")
 
 # Sobre mí
-st.header("👤 Sobre mí")
+st.header("Sobre mí")
 st.write("""
 Soy una persona apasionada por el arte y la creatividad. Me encanta cantar, componer canciones, inventar historias y expresarme a través de los instrumentos musicales.   Encuentro en la música y la narrativa una forma de conectar con los demás y conmigo mismo. Creo firmemente en el esfuerzo como clave del crecimiento personal; para mí, no hay victoria sin sacrificio. Cada meta que me propongo la enfrento con disciplina, entrega y corazón, porque sé que los sueños solo se alcanzan cuando se trabaja por ellos con constancia y pasión.
         """)
 
-st.header("📸 Algunas fotos mías")
+st.header("Algunas fotos mías")
 
 col1, col2 = st.columns(2)
 
@@ -40,7 +40,7 @@ with col2:
     st.image("foto2.jpg", caption="En acción", width=300)
 
 # Habilidades
-st.header("🎯 Habilidades")
+st.header("Habilidades")
 st.write("""
 - Conocimientos en computación  
 - Conocimientos audiovisuales  
@@ -49,7 +49,7 @@ st.write("""
 """)
 
 # Perfil personal
-st.header("🧩 Perfil personal")
+st.header("Perfil personal")
 st.write("""
 - Estudiante de Comunicación Audiovisual  
 - Amigable y responsable  
@@ -58,7 +58,7 @@ st.write("""
 """)
 
 # Experiencia laboral
-st.header("💼 Experiencia laboral")
+st.header("Experiencia laboral")
 st.write("""
 - Cobrador de pasajes en Empresa ECO  
 - Recojo y envío de encomiendas  
@@ -69,14 +69,14 @@ st.write("""
 """)
 
 # Proyecto
-st.header("🎬 Proyecto: Entre Palabras")
+st.header("Proyecto: Entre Palabras")
 st.write("""
 **Entre Palabras** es un cortometraje escénico realizado en colaboración con un grupo de amigos, que aborda la falta de valentía que puede surgir cuando alguien cree haber encontrado el amor. A través de una narrativa íntima y emocional, exploramos cómo el miedo a expresarse y la inseguridad pueden transformar lo que parecía una conexión sincera en un vacío profundo, cubierto por la soledad.  
 Esta historia refleja cómo, entre palabras no dichas y sentimientos reprimidos, se desdibuja la posibilidad de un verdadero encuentro emocional.
     """)
 
 # Pasatiempos
-st.header("🎨 Pasatiempos e intereses")
+st.header("Pasatiempos e intereses")
 st.write("""
 - Escuchar música  
 - Ver películas  
@@ -84,7 +84,7 @@ st.write("""
 """)
 
 # Contacto
-st.header("📫 Contacto")
+st.header("Contacto")
 st.write("Correo: m.caso@pucp.edu.pe")  
 st.write("Instagram: [@miguecaso](https://instagram.com/miguecaso)")
 
