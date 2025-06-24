@@ -18,7 +18,7 @@ st.markdown("""
 st.set_page_config(page_title="Portafolio de Miguel Caso", page_icon="🎤")
 
 # Título
-st.title("🎤 Portafolio de Miguel Caso")
+st.title("Portafolio de Miguel Caso")
 
 # Separador
 st.markdown("---")
