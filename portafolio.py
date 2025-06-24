@@ -1,10 +1,10 @@
 import streamlit as st
 
-# Fondo con imagen desde internet
+# Fondo con imagen pública
 st.markdown("""
     <style>
     .stApp {
-        background-image: url('https://imgur.com/a/D0DJHUn'); /* reemplaza con tu URL */
+        background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1470&q=80');
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
