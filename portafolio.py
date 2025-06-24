@@ -4,7 +4,7 @@ import streamlit as st
 st.markdown("""
     <style>
     .stApp {
-        background-image: url('https://media.istockphoto.com/id/1412954082/es/foto/fantas%C3%ADa-nocturna-oc%C3%A9ano-ciencia-ficci%C3%B3n-planeta-planeta-horizonte-en-el-fondo-del-campo.jpg?s=612x612&w=0&k=20&c=vNYbg5-JP1DV_C_maScAKujiVBPh9hQZYSzMKADkH6M=');
+        background-image: url('https://i.pinimg.com/236x/3c/bb/28/3cbb2894fca7aa9d4d321e8fdaacbf62.jpg');
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
