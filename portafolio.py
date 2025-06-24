@@ -29,6 +29,16 @@ st.write("""
 Soy una persona apasionada por el arte y la creatividad. Me encanta cantar, componer canciones, inventar historias y expresarme a través de los instrumentos musicales.   Encuentro en la música y la narrativa una forma de conectar con los demás y conmigo mismo. Creo firmemente en el esfuerzo como clave del crecimiento personal; para mí, no hay victoria sin sacrificio. Cada meta que me propongo la enfrento con disciplina, entrega y corazón, porque sé que los sueños solo se alcanzan cuando se trabaja por ellos con constancia y pasión.
         """)
 
+st.header("📸 Algunas fotos mías")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.image("foto1.jpg", caption="Presentación", width=300)
+
+with col2:
+    st.image("foto2.jpg", caption="En acción", width=300)
+
 # Habilidades
 st.header("🎯 Habilidades")
 st.write("""
