@@ -1,5 +1,17 @@
 import streamlit as st
 
+# Fondo personalizado con imagen
+st.markdown("""
+    <style>
+    .stApp {
+        background-image: url('fondo.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 # Configurar la página
 st.set_page_config(page_title="Portafolio de Miguel Caso", page_icon="🎤")
 
