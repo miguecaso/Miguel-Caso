@@ -1,10 +1,10 @@
 import streamlit as st
 
-# Fondo con imagen de Interestelar (imagen pública)
+# Fondo con imagen de galaxia
 st.markdown("""
     <style>
     .stApp {
-        background-image: url('https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1470&q=80');
+        background-image: url('https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1470&q=80');
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
