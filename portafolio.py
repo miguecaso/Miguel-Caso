@@ -4,7 +4,7 @@ import streamlit as st
 st.markdown("""
     <style>
     .stApp {
-        background-image: url('https://www.cuentamealgobueno.com/wp-content/uploads/2011/06/viaje-interestelar_300x225.jpg');
+        background-image: url('https://images.unsplash.com/photo-1518984561899-cf2dc182d98b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVzcGFjaW8lMjBuZWdyb3xlbnwwfHwwfHx8MA%3D%3D');
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
