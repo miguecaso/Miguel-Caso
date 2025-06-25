@@ -31,16 +31,13 @@ Soy una persona apasionada por el arte y la creatividad. Me encanta cantar, comp
 
 st.header("Algunas Fotos Mías")
 
-col1, col2, col3 = st.columns(2)
+col1, col2 = st.columns(2)
 
 with col1:
-    st.image("foto1.jpg", caption="Soledad", width=300)
+    st.image("foto1.jpg", caption="Presentación", width=300)
 
 with col2:
-    st.image("foto2.jpg", caption="Noche", width=300)
-
-with col3:
-    st.image("foto3.jpg", caption="Trabajo", width=300)
+    st.image("foto2.jpg", caption="En acción", width=300)
 
 # Video del proyecto
 st.subheader("GYM")
