@@ -34,10 +34,13 @@ st.header("Algunas Fotos Mías")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image("foto1.jpg", caption="Presentación", width=300)
+    st.image("foto1.jpg", caption="Triste", width=300)
 
 with col2:
-    st.image("foto2.jpg", caption="En acción", width=300)
+    st.image("foto2.jpg", caption="Soledad", width=300)
+
+with col3:
+    st.image("foto3.jpg", caption="SAD", width=300)
 
 # Video del proyecto
 st.subheader("GYM")
