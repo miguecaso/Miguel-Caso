@@ -24,12 +24,12 @@ st.title("Portafolio de Miguel Caso")
 st.markdown("---")
 
 # Sobre mí
-st.header("Sobre mí")
+st.header("Sobre Mí")
 st.write("""
 Soy una persona apasionada por el arte y la creatividad. Me encanta cantar, componer canciones, inventar historias y expresarme a través de los instrumentos musicales.   Encuentro en la música y la narrativa una forma de conectar con los demás y conmigo mismo. Creo firmemente en el esfuerzo como clave del crecimiento personal; para mí, no hay victoria sin sacrificio. Cada meta que me propongo la enfrento con disciplina, entrega y corazón, porque sé que los sueños solo se alcanzan cuando se trabaja por ellos con constancia y pasión.
         """)
 
-st.header("Algunas fotos mías")
+st.header("Algunas Fotos Mías")
 
 col1, col2 = st.columns(2)
 
@@ -49,7 +49,7 @@ st.write("""
 """)
 
 # Perfil personal
-st.header("Perfil personal")
+st.header("Perfil Personal")
 st.write("""
 - Estudiante de Comunicación Audiovisual  
 - Amigable y responsable  
@@ -58,7 +58,7 @@ st.write("""
 """)
 
 # Experiencia laboral
-st.header("Experiencia laboral")
+st.header("Experiencia Laboral")
 st.write("""
 - Cobrador de pasajes en Empresa ECO  
 - Recojo y envío de encomiendas  
@@ -76,7 +76,7 @@ Esta historia refleja cómo, entre palabras no dichas y sentimientos reprimidos,
     """)
 
 # Pasatiempos
-st.header("Pasatiempos e intereses")
+st.header("Pasatiempos e Intereses")
 st.write("""
 - Escuchar música  
 - Ver películas  
