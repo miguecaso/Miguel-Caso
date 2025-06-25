@@ -83,10 +83,6 @@ st.write("""
 Esta historia refleja cómo, entre palabras no dichas y sentimientos reprimidos, se desdibuja la posibilidad de un verdadero encuentro emocional.  MUY PRONTO!!!
     """)
 
-# Video del proyecto
-st.subheader("Otro Video")
-st.video("https://drive.google.com/file/d/1cyzeFX38BPMuXPX8lUyaxL_tHBTXmKWH/view?usp=sharing")
-
 # Pasatiempos
 st.header("Pasatiempos e Intereses")
 st.write("""
