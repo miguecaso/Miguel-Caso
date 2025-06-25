@@ -31,7 +31,7 @@ Soy una persona apasionada por el arte y la creatividad. Me encanta cantar, comp
 
 st.header("Algunas Fotos Mías")
 
-col1, col2 = st.columns(2)
+col1, col2 = st.columns(4)
 
 with col1:
     st.image("foto1.jpg", caption="Soledad", width=300)
