@@ -42,6 +42,7 @@ with col2:
 # Video del proyecto
 st.subheader("GYM")
 st.video("video.mp4")
+st.video("video1.mp4")
 
 # Habilidades
 st.header("Habilidades")
