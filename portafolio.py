@@ -84,8 +84,8 @@ Esta historia refleja cómo, entre palabras no dichas y sentimientos reprimidos,
     """)
 
 # Video del proyecto
-st.subheader("Otros Videos")
-st.video("Corto.mp4")
+st.subheader("Otro Video")
+st.video("https://drive.google.com/file/d/1cyzeFX38BPMuXPX8lUyaxL_tHBTXmKWH/view?usp=sharing")
 
 # Pasatiempos
 st.header("Pasatiempos e Intereses")
