@@ -90,4 +90,4 @@ st.write("Instagram: [@miguecaso](https://instagram.com/miguecaso)")
 
 # Cierre
 st.markdown("---")
-st.write("Gracias por visitar mi portafolio 🎶")
+st.write("Gracias por visitar Mi Portafolio")
