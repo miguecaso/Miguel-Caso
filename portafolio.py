@@ -15,7 +15,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configurar la página
-st.set_page_config(page_title="Portafolio de Miguel Caso", page_icon="🎤")
+st.set_page_config(page_title="Portafolio de Miguel Caso")
 
 # Título
 st.title("Portafolio de Miguel Caso")
