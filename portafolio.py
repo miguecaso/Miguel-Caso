@@ -39,6 +39,10 @@ with col1:
 with col2:
     st.image("foto2.jpg", caption="En acción", width=300)
 
+# Video del proyecto
+st.subheader("GYM")
+st.video("video.mp4")
+
 # Habilidades
 st.header("Habilidades")
 st.write("""
